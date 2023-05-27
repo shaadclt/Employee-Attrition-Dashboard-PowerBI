@@ -34,7 +34,7 @@ To use this project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/employee-attrition-dashboard.git
+git clone https://github.com/shaadclt/Employee-Attrition-Dashboard-PowerBI.git
 ```
 
 2. Install Power BI Desktop, which can be downloaded from the official Power BI website.
